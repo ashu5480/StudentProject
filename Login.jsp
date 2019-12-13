@@ -28,7 +28,7 @@
                    </div>
                    
                    <Button class="btn btn-primary">LOGIN</Button>
-                   <a class="btn btn-primary" href="register.jsp">REGISTER</a>
+                   <a class="btn btn-primary" href="register.jsp">New_User</a>
                  </form>
 			</div>
 		</div>
